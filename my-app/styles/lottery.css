@@ -1,0 +1,15 @@
+.hero-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 90px;
+}
+
+.lottery-img{
+    width: 600px;
+}
+.lottery-img img{
+    border-radius: 25px;
+
+}
+
+
